@@ -12,12 +12,7 @@ Find above the code regarding the Rubik's Cube Simulation, the Rubik's Cube Gym 
 
 # Examples:
 
-![Alt Text]((https://user-images.githubusercontent.com/77060596/103791824-97886600-504b-11eb-8fa8-5369c2ec3054.png)
-
-
-
-
-
+![Alt Text](https://user-images.githubusercontent.com/77060596/103791824-97886600-504b-11eb-8fa8-5369c2ec3054.png)
 
 ![Alt Text](https://user-images.githubusercontent.com/77060596/103791827-99522980-504b-11eb-8e68-ccb8d7907801.png)
 
