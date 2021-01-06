@@ -11,5 +11,7 @@ The gym environment was then developped, and two DQN models were trained accordi
 Find above the code regarding the Rubik's Cube Simulation, the Rubik's Cube Gym Environment, and the DQN model training.
 
 # Examples:
+![Alt Text](https://ibb.co/tMcBZWK)
 
+![Alt Text](https://ibb.co/mHtrB8S)
 
